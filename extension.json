@@ -1,7 +1,7 @@
 {
-  "name": "Visual Studio Code Modern",
+  "name": "VSCode Modern",
   "version": "0.0.1",
   "authors": ["Per Ragnar Edin"],
   "description": "🧑‍💻 Visual Studio Code Modern theme ported to Zed",
-  "repository": "https://github.com/perragnar/zed-theme-siri"
+  "repository": "https://github.com/perragnar/zed-theme-vscode-modern"
 }
