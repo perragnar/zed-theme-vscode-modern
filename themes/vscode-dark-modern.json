@@ -393,7 +393,7 @@
         "editor.active_wrap_guide": "#2b2b2b",
         "editor.document_highlight.read_background": null,
         "editor.document_highlight.write_background": null,
-        "terminal.background": null,
+        "terminal.background": "#131517",
         "terminal.foreground": null,
         "terminal.bright_foreground": null,
         "terminal.dim_foreground": null,
